@@ -1,37 +1,10 @@
 #EXTM3U
-#EXTINF:0,Discovery
-#EXTGRP:unsorted
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36162?checkedby&amp;
-#EXTINF:0,Eurosport2
-#EXTGRP:unsorted
-http://192.168.1.101:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6&amp;.ts
-#EXTINF:0,FilmBox
-#EXTGRP:unsorted
-http://10.12.14.101:6878/ace/getstream?id=185a88c1eb1777b76f79ff4491105094f0f97938&amp;.ts
 #EXTINF:0,AutoMoto
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=b64da47a35651501c1f173a0a3aba99d74179dae&amp;.ts
-#EXTINF:0,digi s1
-#EXTGRP:unsorted
-http://10.12.14.102:6878/ace/getstream?id=afda7ad25cf53be75a9da094d6778077673d705e&amp;.ts
-#EXTINF:0,digi s2
-#EXTGRP:unsorted
-http://10.12.14.102:6878/ace/getstream?id=e94d3af5d719a1773827aac6ba3f3a1137082e57&amp;.ts
-#EXTINF:0,fight
-#EXTGRP:unsorted
-http://194.0.91.181:6878/ace/getstream?id=bc45df74747660eca0612608926bf445ab396eb5&amp;.ts
 #EXTINF:0,Eurosport 1
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&amp;.ts
-#EXTINF:0,digi s3
-#EXTGRP:unsorted
-http://12.168.1.105:6878/ace/getstream?id=13d55344568b03a72b4685a2e2004df15d0c457a&amp;.ts
-#EXTINF:0,Realitatea +
-#EXTGRP:unsorted
-https://edge.realitatea.net/livestream/new/chunklist.m3u8
-#EXTINF:0,Kanal D
-#EXTGRP:unsorted
-http://194.0.91.181:6878/ace/getstream?id=9c7ef395161ba3f792260a1ed7a33da5483fb5c8&amp;.ts
 #EXTINF:0,Realitatea
 #EXTGRP:unsorted
 http://10.12.14.101:6878/ace/getstream?id=eb11f53e8ec5b88be2a7e587e77a6ec783eae9cc&amp;
@@ -53,6 +26,42 @@ http://192.168.1.101:6878/ace/getstream?id=45f110711ddffc71167cb09c8c7992689694f
 #EXTINF:0,NatGeoWild
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=394354a04edd738876b8b2ecab15d4765d33b37f&amp;.ts
+#EXTINF:0,Discovery RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36162?checkedby&amp;
+#EXTINF:0,Discovery Science FHD RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36161?checkedby&amp;
+#EXTINF:0,HBO RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36129?checkedby&amp;
+#EXTINF:0,NatGeo Wild FHD RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36102?checkedby&amp
+#EXTINF:0,Nat Geo HD+
+#EXTGRP:unsorted
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71012?checkedby&amp;
+#EXTINF:0,National Geographic FHD RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36103?checkedby&amp
+#EXTINF:0,PRO Arena RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36087?checkedby&amp;
+#EXTINF:0,Tv 1000 HD
+#EXTGRP:unsorted
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71060?checkedby&amp;
+#EXTINF:0,Nat Geo HD+
+#EXTGRP:unsorted
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/71012?checkedby&amp;
+#EXTINF:0,TV1000 RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36060?checkedby&amp;
+#EXTINF:0,U TV RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/16764?checkedby&amp;
+#EXTINF:0,AXN HD RO
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/23294?checkedby&amp;
 #EXTINF:0,DIGI24
 #EXTGRP:unsorted
 https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
