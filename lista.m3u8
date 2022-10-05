@@ -5,21 +5,13 @@ http://192.168.1.101:6878/ace/getstream?id=b64da47a35651501c1f173a0a3aba99d74179
 #EXTINF:0,Eurosport 1
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&amp;.ts
-#EXTINF:0,Realitatea
-#EXTGRP:unsorted
-http://10.12.14.101:6878/ace/getstream?id=eb11f53e8ec5b88be2a7e587e77a6ec783eae9cc&amp;
 #EXTINF:0,Romaniatv
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=e7ed8e35754c23218860f4fcdcfe37f851464f3d&amp;.ts
-#EXTINF:0,acasa
-#EXTGRP:unsorted
-http://192.168.1.101:6878/ace/getstream?id=5adf72153a0706f5fee84d5b7893a4c8451d3c49&amp;.ts
 #EXTINF:0,Atomic
 #EXTGRP:unsorted
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:0,kiss
-#EXTGRP:unsorted
-http://192.168.1.101:6878/ace/getstream?id=6797f1863fe577a723811ef14ef67a5a152ee736&amp;.ts
 #EXTINF:0,NatGeo
 #EXTGRP:unsorted
 http://192.168.1.101:6878/ace/getstream?id=45f110711ddffc71167cb09c8c7992689694f5d6&amp;.ts
