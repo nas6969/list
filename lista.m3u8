@@ -64,7 +64,7 @@ http://192.168.1.101:6878/ace/getstream?id=c0057d0416ce56f05d0f2e3824ec55e2b24c9
 https://stream1.1616.ro:1945/prima/livestream/chunklist_w279115989_tkd293emF0b2tlbmVuZHRpbWU9MTYxMTk4NTU2OSZ3b3d6YXRva2VuaGFzaD1LWDFPUGxLaVozX1R6cjRBbmlTM0ZqbU0tWVlaYVZPVWtWN1ZaaUpZdWlNPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MTE5NDIzNjk=.m3u8
 #EXTINF:0,ProTV
 #EXTGRP:unsorted
-http://192.168.1.101:6878/ace/getstream?id=699bef505239ed11ddae3e0f96d007dbaa01d0aa&amp;.ts
+http://127.0.0.1:6878/ace/getstream?id=699bef505239ed11ddae3e0f96d007dbaa01d0aa&amp;.ts
 #EXTINF:0,Muscel TV
 #EXTGRP:unsorted
 http://188.27.135.199:8086/hls/musceltv/1_2/index.m3u8
