@@ -1,0 +1,76 @@
+#EXTM3U
+#EXTINF:0,Discovery
+#EXTGRP:unsorted
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/36162?checkedby&amp;
+#EXTINF:0,Eurosport2
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6&amp;.ts
+#EXTINF:0,FilmBox
+#EXTGRP:unsorted
+http://10.12.14.101:6878/ace/getstream?id=185a88c1eb1777b76f79ff4491105094f0f97938&amp;.ts
+#EXTINF:0,AutoMoto
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=b64da47a35651501c1f173a0a3aba99d74179dae&amp;.ts
+#EXTINF:0,digi s1
+#EXTGRP:unsorted
+http://10.12.14.102:6878/ace/getstream?id=afda7ad25cf53be75a9da094d6778077673d705e&amp;.ts
+#EXTINF:0,digi s2
+#EXTGRP:unsorted
+http://10.12.14.102:6878/ace/getstream?id=e94d3af5d719a1773827aac6ba3f3a1137082e57&amp;.ts
+#EXTINF:0,fight
+#EXTGRP:unsorted
+http://194.0.91.181:6878/ace/getstream?id=bc45df74747660eca0612608926bf445ab396eb5&amp;.ts
+#EXTINF:0,Eurosport 1
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766&amp;.ts
+#EXTINF:0,digi s3
+#EXTGRP:unsorted
+http://12.168.1.105:6878/ace/getstream?id=13d55344568b03a72b4685a2e2004df15d0c457a&amp;.ts
+#EXTINF:0,Realitatea +
+#EXTGRP:unsorted
+https://edge.realitatea.net/livestream/new/chunklist.m3u8
+#EXTINF:0,Kanal D
+#EXTGRP:unsorted
+http://194.0.91.181:6878/ace/getstream?id=9c7ef395161ba3f792260a1ed7a33da5483fb5c8&amp;.ts
+#EXTINF:0,Realitatea
+#EXTGRP:unsorted
+http://10.12.14.101:6878/ace/getstream?id=eb11f53e8ec5b88be2a7e587e77a6ec783eae9cc&amp;
+#EXTINF:0,Romaniatv
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=e7ed8e35754c23218860f4fcdcfe37f851464f3d&amp;.ts
+#EXTINF:0,acasa
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=5adf72153a0706f5fee84d5b7893a4c8451d3c49&amp;.ts
+#EXTINF:0,Atomic
+#EXTGRP:unsorted
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:0,kiss
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=6797f1863fe577a723811ef14ef67a5a152ee736&amp;.ts
+#EXTINF:0,NatGeo
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=45f110711ddffc71167cb09c8c7992689694f5d6&amp;.ts
+#EXTINF:0,NatGeoWild
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=394354a04edd738876b8b2ecab15d4765d33b37f&amp;.ts
+#EXTINF:0,DIGI24
+#EXTGRP:unsorted
+https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+#EXTINF:0,moovie
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=c0057d0416ce56f05d0f2e3824ec55e2b24c9d99&amp;.ts
+#EXTINF:0,PRIMA TV HD
+#EXTGRP:unsorted
+https://stream1.1616.ro:1945/prima/livestream/chunklist_w279115989_tkd293emF0b2tlbmVuZHRpbWU9MTYxMTk4NTU2OSZ3b3d6YXRva2VuaGFzaD1LWDFPUGxLaVozX1R6cjRBbmlTM0ZqbU0tWVlaYVZPVWtWN1ZaaUpZdWlNPSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MTE5NDIzNjk=.m3u8
+#EXTINF:0,ProTV
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=699bef505239ed11ddae3e0f96d007dbaa01d0aa&amp;.ts
+#EXTINF:0,Muscel TV
+#EXTGRP:unsorted
+http://188.27.135.199:8086/hls/musceltv/1_2/index.m3u8
+#EXTINF:0,Antena 1
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=4cee0a14083d14caf86bd9a7e91ef651f1b94106&amp;.ts
+#EXTINF:0,Antena 3 (720p)
+#EXTGRP:unsorted
+http://192.168.1.101:6878/ace/getstream?id=444700561ced1f89da13d4ed73ce12da2001aa19&amp;.ts
